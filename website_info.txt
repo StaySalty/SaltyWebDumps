@@ -1,10 +1,10 @@
-# Web Dumps
+I hack into websites for a living and give them 10 days to contact me to fix their security issues.
 
-I hacked into these websites 10 days ago and gave them 10 days to contact me
-for information on how to better secure their information. Well they failed
-so now everything will be dumped all over the internet.
+Well these guys never contacted me
 
-# Website info
+
+Github: https://github.com/StaySalty/SaltyWebDumps
+Zip file download: https://mega.nz/#F!Ij5lEYqS!6Tk3AH_9kxjshjAp3iNKTg
 
 Most of these websites have a backdoor in them located at http://<SITE>.<EXT>/back.php to use this backdoor just do back.php?cmd=<COMMAND>
 
@@ -19,11 +19,3 @@ innovativegroupofcolleges.com|innovativegroupo|tG4,-TtaIuZx
 modernpetcentre.in|modernpetcentre|O$P[whPF_frr
 thirdconceptjournal.co.in|thirdcon|HQ=UIWO+9MEN
 ueb.ac.in|uebac|A=]S)+ZVy)xn
-
-# URL
-
-Download the full zip [here](https://mega.nz/#F!Ij5lEYqS!6Tk3AH_9kxjshjAp3iNKTg)
-
-# Who am I?
-
-I am Salty, that's about all you need to know about me.
